@@ -1,9 +1,9 @@
 
-# Hi, I'm Juani 👋🏼 👨🏼‍💻
+# Hi, I'm Juani 🧉 👨🏼‍💻 
 
 
 <img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
-I am a student of the software engineer career in the UNSJ (University of San Juan), my main languages are Python, C and Java. I also manage SQL
+I am a student of the software engineer career in the UNSJ (University of San Juan) 🇦🇷.
 
 
 [![Visitas de perfil](https://komarev.com/ghpvc/?username=juanilato&color=blue)](https://github.com/juanilato)
