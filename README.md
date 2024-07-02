@@ -12,12 +12,14 @@ I am a student of the software engineer career in the UNSJ (University of San Ju
 
 ## Lenguajes y Tecnologías
 
-- [C](https://en.wikipedia.org/wiki/C_(programming_language))
-- [Python](https://www.python.org/)
-- [Java](https://www.oracle.com/java/)
-- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-- [SQL](https://en.wikipedia.org/wiki/SQL)
+<p align="center">
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white"/></a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
+  <a href="https://www.oracle.com/java/"><img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>
+  <a href="https://en.wikipedia.org/wiki/SQL"><img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sql&logoColor=white"/></a>
+</p>
 
 ## Estadísticas de GitHub
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=juanilato&show_icons=true&theme=radical)
