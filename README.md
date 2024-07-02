@@ -2,7 +2,7 @@
 # Hi, I'm Juani 🧉 👨🏼‍💻 
 
 
-<img src="https://raw.githubusercontent.com/juanilato/juanilato/master/juani.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
+<img src="https://raw.githubusercontent.com/juanilato/juanilato/master/juani2.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
 I am a student of the software engineer career in the UNSJ (University of San Juan) 🇦🇷.
 
 
