@@ -1,4 +1,12 @@
 ## Hi there 👋
+# ¡Hola! Soy Juani 👋
+
+[![Visitas de perfil](https://komarev.com/ghpvc/?username=juani&color=blue)](https://github.com/juani)
+[![GitHub Seguidores](https://img.shields.io/github/followers/juani?label=Seguidores&style=social)](https://github.com/juani?tab=followers)
+[![GitHub Estrellas](https://img.shields.io/github/stars/juani?label=Estrellas&style=social)](https://github.com/juani?tab=repositories)
+
+## Estadísticas de GitHub
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=juani&show_icons=true&theme=radical)
 
 <!--
 **juanilato/juanilato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
