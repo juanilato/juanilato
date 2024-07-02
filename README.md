@@ -32,6 +32,9 @@ I am software engineer student from the UNSJ (National University of San Juan) ð
   <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="sql" width="40" height="40"/>
   </a>
+  <a href="https://en.wikipedia.org/wiki/Abstract_algebra" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/algebra/algebra-original.svg" alt="relax algebra" width="40" height="40"/>
+  </a>
 </p>
 
 ## EstadÃ­sticas de GitHub
