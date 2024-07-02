@@ -10,6 +10,15 @@ I am a student of the software engineer career in the UNSJ (University of San Ju
 [![GitHub Seguidores](https://img.shields.io/github/followers/juanilato?label=Seguidores&style=social)](https://github.com/juanilato?tab=followers)
 [![GitHub Estrellas](https://img.shields.io/github/stars/juanilato?label=Estrellas&style=social)](https://github.com/juanilato?tab=repositories)
 
+## Lenguajes y Tecnologías
+
+- [C](https://en.wikipedia.org/wiki/C_(programming_language))
+- [Python](https://www.python.org/)
+- [Java](https://www.oracle.com/java/)
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [SQL](https://en.wikipedia.org/wiki/SQL)
+
 ## Estadísticas de GitHub
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=juanilato&show_icons=true&theme=radical)
 
