@@ -3,7 +3,7 @@
 
 
 <img src="https://raw.githubusercontent.com/juanilato/juanilato/master/juani2.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
-I am software engineer student from the UNSJ (University of San Juan) 🇦🇷.
+I am software engineer student from the UNSJ (National University of San Juan) 🇦🇷.
 
 
 [![Visitas de perfil](https://komarev.com/ghpvc/?username=juanilato&color=blue)](https://github.com/juanilato)
